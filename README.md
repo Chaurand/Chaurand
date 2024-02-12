@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chaurand
-- 👀 I’m interested in LaTeX, Python, Switch, Flutter
-- 🌱 I’m currently learning Python, HTML
+- 👀 I’m interested in LaTeX, Python, JavaScript, Switch, Flutter
+- 🌱 I’m currently learning Python, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
